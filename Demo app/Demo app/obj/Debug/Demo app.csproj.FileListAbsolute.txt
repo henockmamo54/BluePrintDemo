@@ -1,0 +1,9 @@
+E:\workspace\C#\for interview\Demo app\Demo app\bin\Debug\Demo app.exe.config
+E:\workspace\C#\for interview\Demo app\Demo app\bin\Debug\Demo app.exe
+E:\workspace\C#\for interview\Demo app\Demo app\bin\Debug\Demo app.pdb
+E:\workspace\C#\for interview\Demo app\Demo app\obj\Debug\Demo_app.Form1.resources
+E:\workspace\C#\for interview\Demo app\Demo app\obj\Debug\Demo_app.Properties.Resources.resources
+E:\workspace\C#\for interview\Demo app\Demo app\obj\Debug\Demo app.csproj.GenerateResource.Cache
+E:\workspace\C#\for interview\Demo app\Demo app\obj\Debug\Demo app.exe
+E:\workspace\C#\for interview\Demo app\Demo app\obj\Debug\Demo app.pdb
+E:\workspace\C#\for interview\Demo app\Demo app\obj\Debug\Demo app.csprojResolveAssemblyReference.cache
